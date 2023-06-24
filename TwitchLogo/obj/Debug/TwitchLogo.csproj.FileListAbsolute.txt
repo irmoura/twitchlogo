@@ -1,0 +1,11 @@
+C:\Users\corag\source\repos\TwitchLogo\bin\Debug\TwitchLogo.exe.config
+C:\Users\corag\source\repos\TwitchLogo\bin\Debug\TwitchLogo.exe
+C:\Users\corag\source\repos\TwitchLogo\bin\Debug\TwitchLogo.pdb
+C:\Users\corag\source\repos\TwitchLogo\obj\Debug\TwitchLogo.csproj.AssemblyReference.cache
+C:\Users\corag\source\repos\TwitchLogo\obj\Debug\TwitchLogo.csproj.SuggestedBindingRedirects.cache
+C:\Users\corag\source\repos\TwitchLogo\obj\Debug\TwitchLogo.Form1.resources
+C:\Users\corag\source\repos\TwitchLogo\obj\Debug\TwitchLogo.Properties.Resources.resources
+C:\Users\corag\source\repos\TwitchLogo\obj\Debug\TwitchLogo.csproj.GenerateResource.cache
+C:\Users\corag\source\repos\TwitchLogo\obj\Debug\TwitchLogo.csproj.CoreCompileInputs.cache
+C:\Users\corag\source\repos\TwitchLogo\obj\Debug\TwitchLogo.exe
+C:\Users\corag\source\repos\TwitchLogo\obj\Debug\TwitchLogo.pdb
